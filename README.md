@@ -1,0 +1,2 @@
+# Registration-and-Login-GUI-Form
+Registration and Login GUI Form is created in Apache Netbeans where user can register with First Name, Last Name, Username and Password which is stored in microsoft sql server database in Register table and in Login form GUI user can enter username and password which is already stored in database via register form gui will be verified via select query and once it is verified successful message and FFC shopping GUI Appears as Result.
